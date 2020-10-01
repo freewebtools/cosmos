@@ -1,1 +1,1 @@
-# cosmos
+# cosmos astronomy web magazine
